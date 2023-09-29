@@ -32,22 +32,221 @@ export const links = [
         icon: <FaHome className="nav__icon" />,
         path: "/",
     },
+
     {
         id: 2,
         name: "About",
         icon: <FaUser className="nav__icon" />,
         path: "/about",
     },
+
     {
         id: 3,
         name: "Portfolio",
         icon: <FaFolderOpen className="nav__icon" />,
         path: "/portfolio",
     },
+
     {
         id: 4,
         name: "Contact",
         icon: <FaEnvelopeOpen className="nav__icon" />,
         path: "/contact",
+    },
+];
+
+export const personalInfo = [
+    {
+        id: 1,
+        title: "First Name : ",
+        description: "Md Faizan",
+    },
+
+    {
+        id: 2,
+        title: "Last Name : ",
+        description: "Khan",
+    },
+
+    {
+        id: 3,
+        title: "Age : ",
+        description: "19 Years",
+    },
+
+    {
+        id: 4,
+        title: "Nationality : ",
+        description: "Indian",
+    },
+    {
+        id: 5,
+        title: "Address : ",
+        description: "New Delhi",
+    },
+
+    {
+        id: 6,
+        title: "Freelance : ",
+        description: "Available",
+    },
+
+    {
+        id: 7,
+        title: "Email : ",
+        description: "FKHAN20040@GMAIL.COM",
+    },
+
+    {
+        id: 8,
+        title: "Languages : ",
+        description: "English, Hindi",
+    },
+];
+
+export const stats = [
+    {
+        id: 1,
+        no: "1+",
+        title: "Years of <br /> Experience",
+    },
+
+    {
+        id: 2,
+        no: "10+",
+        title: "Complete <br /> Projects",
+    },
+];
+
+export const skills = [
+    {
+        id: 1,
+        title: "HTML",
+        percentage: "60",
+    },
+
+    {
+        id: 2,
+        title: "CSS",
+        percentage: "60",
+    },
+
+    {
+        id: 3,
+        title: "JavaScript",
+        percentage: "75",
+    },
+
+    {
+        id: 4,
+        title: "React",
+        percentage: "70",
+    },
+
+    {
+        id: 5,
+        title: "NodeJS",
+        percentage: "65",
+    },
+
+    {
+        id: 6,
+        title: "ExpressJS",
+        percentage: "60",
+    },
+
+    {
+        id: 8,
+        title: "MongoDb",
+        percentage: "70",
+    },
+
+    {
+        id: 9,
+        title: "MySQL",
+        percentage: "70",
+    },
+
+    {
+        id: 10,
+        title: "Java",
+        percentage: "85",
+    },
+
+    {
+        id: 11,
+        title: "C",
+        percentage: "70",
+    },
+
+    {
+        id: 12,
+        title: "C++",
+        percentage: "70",
+    },
+
+    {
+        id: 11,
+        title: "Git",
+        percentage: "80",
+    },
+
+    {
+        id: 12,
+        title: "DevOps",
+        percentage: "60",
+    },
+
+    {
+        id: 13,
+        title: "Docker",
+        percentage: "65",
+    },
+
+    {
+        id: 14,
+        title: "Kubernetes",
+        percentage: "60",
+    },
+
+    {
+        id: 15,
+        title: "Shell Scripting",
+        percentage: "60",
+    },
+
+    {
+        id: 16,
+        title: "Ubuntu",
+        percentage: "70",
+    },
+];
+
+export const resume = [
+    {
+        id: 1,
+        category: "experience",
+        icon: <FaBriefcase />,
+        year: "2023 - PRESENT",
+        title: "Web Developer",
+        desc: "Full Stack Web Developing using MERN Stack",
+    },
+
+    {
+        id: 2,
+        category: "experience",
+        icon: <FaBriefcase />,
+        year: "2023 - PRESENT",
+        title: "Java Programmer",
+        desc: "Java Programming using Data Structure & Algorithm",
+    },
+
+    {
+        id: 3,
+        category: "education",
+        icon: <FaGraduationCap />,
+        year: "2022 - 2026",
+        title: "BTech in CSE <span> Galgotias University  </span>",
+        desc: "Bachelor of Technology in Computer Science Engineering",
     },
 ];
