@@ -6,6 +6,8 @@ import {
     FaBriefcase,
     FaGraduationCap,
     FaCode,
+    FaGithub,
+    FaLink,
 } from "react-icons/fa";
 import { FiFileText, FiUser, FiExternalLink } from "react-icons/fi";
 
@@ -248,5 +250,116 @@ export const resume = [
         year: "2022 - 2026",
         title: "BTech in CSE <span> Galgotias University  </span>",
         desc: "Bachelor of Technology in Computer Science Engineering",
+    },
+];
+
+export const portfolio = [
+    {
+        id: 1,
+        img: Work1,
+        title: "Web Calculator",
+        details: [
+            {
+                icon: <FiFileText />,
+                title: "Project : ",
+                desc: "Website",
+            },
+            {
+                icon: <FaGithub />,
+                title: "Github Repository : ",
+                desc: "https://github.com/THEFZNKHAN/Web_Calculator",
+            },
+            {
+                icon: <FaCode />,
+                title: "Language : ",
+                desc: "HTML, CSS and JavaScript",
+            },
+            {
+                icon: <FaLink />,
+                title: "Preview : ",
+                desc: "https://thefznkhan.github.io/Web_Calculator/",
+            },
+        ],
+    },
+    {
+        id: 2,
+        img: Work2,
+        title: "Web Calculator 2.0",
+        details: [
+            {
+                icon: <FiFileText />,
+                title: "Project : ",
+                desc: "Website",
+            },
+            {
+                icon: <FaGithub />,
+                title: "Github Repository : ",
+                desc: "https://github.com/THEFZNKHAN/Calculator",
+            },
+            {
+                icon: <FaCode />,
+                title: "Language : ",
+                desc: "HTML, CSS and JavaScript",
+            },
+            {
+                icon: <FaLink />,
+                title: "Preview : ",
+                desc: "https://thefznkhan.github.io/Calculator/",
+            },
+        ],
+    },
+    {
+        id: 3,
+        img: Work3,
+        title: "Quote Generator",
+        details: [
+            {
+                icon: <FiFileText />,
+                title: "Project : ",
+                desc: "Website",
+            },
+            {
+                icon: <FaGithub />,
+                title: "Github Repository : ",
+                desc: "https://github.com/THEFZNKHAN/QuoteGenerator",
+            },
+            {
+                icon: <FaCode />,
+                title: "Language : ",
+                desc: "HTML, Css and JavaScript",
+            },
+            {
+                icon: <FaLink />,
+                title: "Preview : ",
+                desc: "https://thefznkhan.github.io/QuoteGenerator/",
+            },
+        ],
+    },
+    {
+        id: 4,
+        img: Work4,
+        title: "QR-Code Generator",
+        details: [
+            {
+                icon: <FiFileText />,
+                title: "Project : ",
+                desc: "Website",
+            },
+            {
+                icon: <FaGithub />,
+                title: "Github Repository : ",
+                desc: "https://github.com/THEFZNKHAN/QR_Code_Generator",
+            },
+            {
+                icon: <FaCode />,
+                title: "Language : ",
+                desc: "HTML, CSS and JavaScript",
+            },
+            {
+                icon: <FaLink />,
+                title: "Preview : ",
+                desc: "https://thefznkhan.github.io/QR_Code_Generator/",
+            },
+        ],
     },
 ];
