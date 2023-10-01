@@ -32,7 +32,7 @@ You can easily get in touch with me in the "Contact Me" section:
 ## 🌓 Themes
 
 My website offers different themes:
--Blue Violet
+- Blue Violet
 - Red
 - Purple
 - Blue
@@ -65,4 +65,5 @@ Thank you for visiting my portfolio. If you have any questions, suggestions, or 
 
 Happy coding!
 
-[Portfolio][(https://www.yourportfolio.com](https://thefznkhan.github.io/contact)https://thefznkhan.github.io/contact)
+[Portfolio](https://thefznkhan.github.io/portfolio/)
+
