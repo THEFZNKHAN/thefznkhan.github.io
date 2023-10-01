@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/THEFZNKHAN/portfolio.git/static/css/main.9f0bc8d0.css",
-    "main.js": "/THEFZNKHAN/portfolio.git/static/js/main.6b43f306.js",
-    "static/media/QuoteGenerator.png": "/THEFZNKHAN/portfolio.git/static/media/QuoteGenerator.a21402229ad94d036f31.png",
-    "static/media/Calculator_2.png": "/THEFZNKHAN/portfolio.git/static/media/Calculator_2.cda331a9c5abeb20483a.png",
-    "static/media/logo.png": "/THEFZNKHAN/portfolio.git/static/media/logo.81b55c981091135d24e5.png",
-    "static/media/QR_Code_Gen.png": "/THEFZNKHAN/portfolio.git/static/media/QR_Code_Gen.ce7436bdf059cf80faa2.png",
-    "static/media/Calculator.png": "/THEFZNKHAN/portfolio.git/static/media/Calculator.bd9ac693fe66ab6dec34.png",
-    "static/media/faizan-CV.pdf": "/THEFZNKHAN/portfolio.git/static/media/faizan-CV.0e8cb7c77b3ae884f629.pdf",
-    "static/media/close.svg": "/THEFZNKHAN/portfolio.git/static/media/close.a27ee5119f614252a67915d3a0dcbd98.svg",
-    "index.html": "/THEFZNKHAN/portfolio.git/index.html",
-    "main.9f0bc8d0.css.map": "/THEFZNKHAN/portfolio.git/static/css/main.9f0bc8d0.css.map",
-    "main.6b43f306.js.map": "/THEFZNKHAN/portfolio.git/static/js/main.6b43f306.js.map"
+    "main.css": "/THEFZNKHAN/portfolio/static/css/main.9f0bc8d0.css",
+    "main.js": "/THEFZNKHAN/portfolio/static/js/main.89e8e2cc.js",
+    "static/media/QuoteGenerator.png": "/THEFZNKHAN/portfolio/static/media/QuoteGenerator.a21402229ad94d036f31.png",
+    "static/media/Calculator_2.png": "/THEFZNKHAN/portfolio/static/media/Calculator_2.cda331a9c5abeb20483a.png",
+    "static/media/logo.png": "/THEFZNKHAN/portfolio/static/media/logo.81b55c981091135d24e5.png",
+    "static/media/QR_Code_Gen.png": "/THEFZNKHAN/portfolio/static/media/QR_Code_Gen.ce7436bdf059cf80faa2.png",
+    "static/media/Calculator.png": "/THEFZNKHAN/portfolio/static/media/Calculator.bd9ac693fe66ab6dec34.png",
+    "static/media/faizan-CV.pdf": "/THEFZNKHAN/portfolio/static/media/faizan-CV.0e8cb7c77b3ae884f629.pdf",
+    "static/media/close.svg": "/THEFZNKHAN/portfolio/static/media/close.a27ee5119f614252a67915d3a0dcbd98.svg",
+    "index.html": "/THEFZNKHAN/portfolio/index.html",
+    "main.9f0bc8d0.css.map": "/THEFZNKHAN/portfolio/static/css/main.9f0bc8d0.css.map",
+    "main.89e8e2cc.js.map": "/THEFZNKHAN/portfolio/static/js/main.89e8e2cc.js.map"
   },
   "entrypoints": [
     "static/css/main.9f0bc8d0.css",
-    "static/js/main.6b43f306.js"
+    "static/js/main.89e8e2cc.js"
   ]
 }
