@@ -23,7 +23,7 @@ const Home = () => {
                         the open-source projects.
                     </p>
 
-                    <Link t="/about" className="button">
+                    <Link to="/about" className="button">
                         More About Me{" "}
                         <span className="button__icon">
                             <FaArrowRight />
