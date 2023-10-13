@@ -61,9 +61,9 @@ Enjoy exploring my portfolio website!
 
 ---
 
-Thank you for visiting my portfolio. If you have any questions, suggestions, or just want to connect, please don't hesitate to reach out.
+Thank you for visiting my portfolio. If you have any questions, or suggestions, or just want to connect, please don't hesitate to reach out.
 
 Happy coding!
 
-[Portfolio](https://thefznkhan.github.io/portfolio/)
+[Portfolio](https://thefznkhan.github.io/)
 
