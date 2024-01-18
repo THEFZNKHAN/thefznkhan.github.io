@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.9f0bc8d0.css",
-    "main.js": "/static/js/main.88d6ae6b.js",
+    "main.js": "/static/js/main.b0f052c7.js",
     "static/media/QuoteGenerator.png": "/static/media/QuoteGenerator.a21402229ad94d036f31.png",
     "static/media/Calculator_2.png": "/static/media/Calculator_2.cda331a9c5abeb20483a.png",
     "static/media/logo.png": "/static/media/logo.81b55c981091135d24e5.png",
-    "static/media/QR_Code_Gen.png": "/static/media/QR_Code_Gen.ce7436bdf059cf80faa2.png",
     "static/media/Calculator.png": "/static/media/Calculator.bd9ac693fe66ab6dec34.png",
+    "static/media/QR_Code_Gen.png": "/static/media/QR_Code_Gen.ae60feb09ca1f6a360c9.png",
     "static/media/faizan-CV.pdf": "/static/media/faizan-CV.0e8cb7c77b3ae884f629.pdf",
     "static/media/close.svg": "/static/media/close.a27ee5119f614252a67915d3a0dcbd98.svg",
     "index.html": "/index.html",
     "main.9f0bc8d0.css.map": "/static/css/main.9f0bc8d0.css.map",
-    "main.88d6ae6b.js.map": "/static/js/main.88d6ae6b.js.map"
+    "main.b0f052c7.js.map": "/static/js/main.b0f052c7.js.map"
   },
   "entrypoints": [
     "static/css/main.9f0bc8d0.css",
-    "static/js/main.88d6ae6b.js"
+    "static/js/main.b0f052c7.js"
   ]
 }
